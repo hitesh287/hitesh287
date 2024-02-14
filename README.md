@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Machine Learning, Automation, Electronic Trading 
 - 🌱 I’m currently learning Python and ML
 - 💞️ I’m looking to collaborate on any project where I can apply my Python knowledge
-- 📫 I am reachable on my email hitesh287@gmail.com  
+- 📫 I am reachable on my email hitesh287-at-gmail.com  
 - 😄 
 - ⚡ Fun fact: I never ate donut. I enjoy swimming in open water
 
